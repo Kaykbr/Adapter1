@@ -16,7 +16,7 @@ public class Pc implements Dispositivo{
 
     @Override
     public void assistirFilme() {
-        System.out.println("Iniciando filme.");
+        System.out.println("Iniciando filme... \n DALE DEILE DOLI \n");
     }
     
     

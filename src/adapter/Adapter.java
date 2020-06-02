@@ -17,7 +17,7 @@ public class Adapter extends Tv implements Dispositivo{
     @Override
     public void assistirFilme() {
         this.verificarRede();
-        System.out.println("Iniciando filme... /n Curta o Filme Salve salve");
+        System.out.println("Iniciando filme... \n Curta o Filme Salve salve");
         
     }
     
